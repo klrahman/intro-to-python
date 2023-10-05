@@ -1,0 +1,9 @@
+name: intro-to-python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - pandas
+  - seaborn
