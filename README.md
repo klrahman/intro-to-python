@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamdonovan/intro-to-python)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamdonovan/intro-to-python/HEAD)
 
 # programming skills for phd researchers (using python)
 
